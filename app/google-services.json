@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "411951272353",
+    "firebase_url": "https://soleekchat2.firebaseio.com",
+    "project_id": "soleekchat2",
+    "storage_bucket": "soleekchat2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411951272353:android:8354f5dd45f5d04b",
+        "android_client_info": {
+          "package_name": "com.soleeklab.chatsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411951272353-hsrqbmucvuapk49vo076rlcb7bqiblvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBHVYamUSMDDMbdQrsbx_R_q7sjDKagu8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
